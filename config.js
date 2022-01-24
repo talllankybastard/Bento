@@ -66,7 +66,7 @@ const CONFIG = {
     {
       id: '3',
       name: 'Maps',
-      icon: 'maps-pin',
+      icon: 'map-pin',
       link: 'https://maps.google.com',
     },
     {
@@ -94,45 +94,45 @@ const CONFIG = {
   // ┴─┘┴└─┘ ┴ └─┘
 
   //Icons
-  firstListIcon: 'music',
-  secondListIcon: 'coffee',
+  firstListIcon: 'bookmark',
+  secondListIcon: 'credit-card',
 
   // Links
   lists: {
     firstList: [
       {
-        name: 'Inspirational',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'DVD Netflix',
+        link: 'https://dvd.netflix.com/',
       },
       {
-        name: 'Classic',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Spotify',
+        link: 'https://www.spotify.com',
       },
       {
-        name: 'Oldies',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Photos',
+        link: 'https://photos.google.com',
       },
       {
-        name: 'Rock',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'News',
+        link: 'https://news.google.com',
       },
     ],
     secondList: [
       {
-        name: 'Linkedin',
-        link: 'https://linkedin.com/',
+        name: 'Amazon',
+        link: 'https://www.amazon.com/',
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
+        name: 'Bank of America',
+        link: 'https://www.bankofamerica.com/',
       },
       {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
+        name: 'Lowes',
+        link: 'https://www.lowes.com',
       },
       {
-        name: 'Telegram',
-        link: 'https://webk.telegram.org',
+        name: 'Newegg',
+        link: 'https://www.newegg.com',
       },
     ],
   },
