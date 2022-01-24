@@ -49,7 +49,7 @@ const CONFIG = {
   // │  ├─┤├┬┘ ││└─┐
   // └─┘┴ ┴┴└──┴┘└─┘
 
-  // Links
+    // Links
   cards: [
     {
       id: '1',
@@ -61,13 +61,13 @@ const CONFIG = {
       id: '2',
       name: 'Mail',
       icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      link: 'https://www.gmail.com/',
     },
     {
       id: '3',
-      name: 'Todoist',
-      icon: 'trello',
-      link: 'https://todoist.com',
+      name: 'Maps',
+      icon: 'maps-pin',
+      link: 'https://maps.google.com',
     },
     {
       id: '4',
@@ -77,15 +77,15 @@ const CONFIG = {
     },
     {
       id: '5',
-      name: 'Reddit',
-      icon: 'glasses',
-      link: 'https://reddit.com',
+      name: 'To Do',
+      icon: 'check',
+      link: 'https://to-do.live.com/tasks/',
     },
     {
       id: '6',
-      name: 'Odysee',
-      icon: 'youtube',
-      link: 'https://odysee.com/',
+      name: 'Drive',
+      icon: 'triangle',
+      link: 'https://drive.google.com/',
     },
   ],
 
