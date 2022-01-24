@@ -23,7 +23,7 @@ const CONFIG = {
   greetingNight: 'Go to Sleep!',
 
   // Weather
-  weatherKey: 'https://api.weather.gov/points/{defaultLatitude},{defaultLongitude},
+  weatherKey: 'https://api.weather.gov/points/{defaultLatitude},{defaultLongitude}',
   weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
   weatherUnit: 'C', // 'F', 'C'
   language: 'en', // More languages in https://openweathermap.org/current#multi
