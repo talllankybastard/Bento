@@ -23,14 +23,16 @@ const CONFIG = {
   greetingNight: 'Go to Sleep!',
 
   // Weather
-  weatherKey: 'InsertYourAPIKeyHere123456',
+  weatherKey: 'c6f7437a9e748f0f6391eedd0ab7cd67',
   weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
-  weatherUnit: 'C', // 'F', 'C'
+  weatherUnit: 'F', // 'F', 'C'
+  weatherLatitude: '40.21756940011627',
+  weatherLongitude: '-75.03926693025122',
   language: 'en', // More languages in https://openweathermap.org/current#multi
 
   trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-  defaultLatitude: '37.775',
-  defaultLongitude: '-122.419',
+  defaultLatitude: '40.21756940011627',
+  defaultLongitude: '-75.03926693025122',
 
   // Autochange
   autoChangeTheme: true,
