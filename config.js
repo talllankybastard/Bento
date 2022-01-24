@@ -23,14 +23,14 @@ const CONFIG = {
   greetingNight: 'Go to Sleep!',
 
   // Weather
-  weatherKey: 'https://api.weather.gov/points/{defaultLatitude},{defaultLongitude}',
+  weatherKey: 'InsertYourAPIKeyHere123456',
   weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
   weatherUnit: 'C', // 'F', 'C'
   language: 'en', // More languages in https://openweathermap.org/current#multi
 
   trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-  defaultLatitude: '40.21756940011627',
-  defaultLongitude: '-75.03926693025122',
+  defaultLatitude: '37.775',
+  defaultLongitude: '-122.419',
 
   // Autochange
   autoChangeTheme: true,
@@ -59,13 +59,13 @@ const CONFIG = {
       id: '2',
       name: 'Mail',
       icon: 'mail',
-      link: 'https://www.gmail.com/',
+      link: 'https://mail.protonmail.com/',
     },
     {
       id: '3',
-      name: 'Maps',
-      icon: 'maps-pin',
-      link: 'https://maps.google.com',
+      name: 'Todoist',
+      icon: 'trello',
+      link: 'https://todoist.com',
     },
     {
       id: '4',
@@ -75,15 +75,15 @@ const CONFIG = {
     },
     {
       id: '5',
-      name: 'To Do',
-      icon: 'check',
-      link: 'https://to-do.live.com/tasks/',
+      name: 'Reddit',
+      icon: 'glasses',
+      link: 'https://reddit.com',
     },
     {
       id: '6',
-      name: 'Drive',
-      icon: 'triangle',
-      link: 'https://drive.google.com/',
+      name: 'Odysee',
+      icon: 'youtube',
+      link: 'https://odysee.com/',
     },
   ],
 
@@ -92,45 +92,45 @@ const CONFIG = {
   // ┴─┘┴└─┘ ┴ └─┘
 
   //Icons
-  firstListIcon: 'bookmark',
-  secondListIcon: 'credit-card',
+  firstListIcon: 'music',
+  secondListIcon: 'coffee',
 
   // Links
   lists: {
     firstList: [
       {
-        name: 'DVD Netflix',
-        link: 'https://dvd.netflix.com/',
+        name: 'Inspirational',
+        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
       },
       {
-        name: 'Spotify',
-        link: 'https://www.spotify.com',
+        name: 'Classic',
+        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
       },
       {
-        name: 'Photos',
-        link: 'https://photos.google.com',
+        name: 'Oldies',
+        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
       },
       {
-        name: 'News',
-        link: 'https://news.google.com',
+        name: 'Rock',
+        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
       },
     ],
     secondList: [
       {
-        name: 'Amazon',
-        link: 'https://www.amazon.com/',
+        name: 'Linkedin',
+        link: 'https://linkedin.com/',
       },
       {
-        name: 'Bank of America',
-        link: 'https://www.bankofamerica.com/',
+        name: 'Figma',
+        link: 'https://figma.com/',
       },
       {
-        name: 'Lowes',
-        link: 'https://www.lowes.com',
+        name: 'Dribbble',
+        link: 'https://dribbble.com',
       },
       {
-        name: 'Newegg',
-        link: 'https://www.newegg.com',
+        name: 'Telegram',
+        link: 'https://webk.telegram.org',
       },
     ],
   },
