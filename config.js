@@ -78,7 +78,7 @@ const CONFIG = {
     {
       id: '5',
       name: 'To Do',
-      icon: 'check',
+      icon: 'circle',
       link: 'https://www.icloud.com/reminders/',
     },
     {
