@@ -79,7 +79,7 @@ const CONFIG = {
       id: '5',
       name: 'To Do',
       icon: 'check',
-      link: 'https://to-do.live.com/tasks/',
+      link: 'https://www.icloud.com/reminders/',
     },
     {
       id: '6',
@@ -101,8 +101,8 @@ const CONFIG = {
   lists: {
     firstList: [
       {
-        name: 'DVD Netflix',
-        link: 'https://dvd.netflix.com/',
+        name: 'ChatGPT',
+        link: 'https://chat.openai.com',
       },
       {
         name: 'Spotify',
